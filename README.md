@@ -11,4 +11,4 @@ The workflow for the project is described in  steps given below:
 4. Build a classification model for the classification of income.
 5. Try different classifiers and compare the accuracy of all the classifiers.
  
-The project is done under the Machine Learning Course  provided by [Acidview](https://acadview.com) under the guindance of Mr Shreyas Raghvan and Ms Meghna P Ayyar.
+The project is done under the Machine Learning Course  provided by [Acadview](https://acadview.com) under the guindance of Mr Shreyas Raghavan and Ms Meghna P Ayyar.
